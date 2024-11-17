@@ -72,7 +72,7 @@ This project is a real-time chat application built with Spring Boot, WebSocket, 
  [http://localhost:8081](http://localhost:8081)
  [http://localhost:8082](http://localhost:8082)
 
-![image](https://github.com/user-attachments/assets/ebc7fafb-ce0e-48bd-92fd-4a1107b31ed1)
+![Screenshot 2024-11-17 191911](https://github.com/user-attachments/assets/7327bde2-34fa-4ac9-8a75-186046f3ec9c)
 
 ## Contributing
 
